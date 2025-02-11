@@ -1,18 +1,6 @@
-it is known files from xylex which made:
-vape for roblox
-miniblox2minecraft layer
-roblox2minecraft
+# it is known files from xylex which made:
+1. vape v4 for roblox
+2. roblox -> minecraft layer
+3. miniblox -> minecraft layer
 
-
-# MinibloxTranslationLayer
-A middle man to translate Miniblox packets into Minecraft 1.8.9 packets.
-
-## Use Steps
-1. Install the latest NodeJS at (https://nodejs.org/)
-2. Download & extract the repository to a random folder
-3. Open a terminal inside said folder
-4. Run npm install & node index.js
-5. Connect to localhost on a supported Minecraft 1.8.9 client.
-
-## Commands
-/play (gamemode type / eggwars / skywars / kitpvp) (aliases include /queue)
+# those files from february of 2025, so i cant guarantee you the functional data of these files, but they are open-source so you have to fix them yourself
